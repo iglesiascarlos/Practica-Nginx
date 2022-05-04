@@ -15,3 +15,4 @@ A continuación vamos a explicar por encima como se realiza la instalación de N
 
 ## Configuración
 * Una vez tenemos instalado Nginx podemos proceder a configurarlo y empezar a prepararlo para desplegar en dos subdominios diferentes los dos proyectos HTML + CSS
+
