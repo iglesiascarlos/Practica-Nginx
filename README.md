@@ -53,3 +53,9 @@ A continuación vamos a explicar por encima como se realiza la instalación de N
  > sudo nano index.html
 ```
 <img width="781" alt="Captura de Pantalla 2022-05-06 a las 22 02 56" src="https://user-images.githubusercontent.com/91618773/167209078-ec0ae275-e75b-41bf-829f-68e6ab03afa4.png">
+
+6. Por último iremos a la carpeta /etc y entraremos al archivo host para añadir las direcciones de las páginas, reiniciaremos nginx y ya podríamos visitar nuestras dos webs.
+
+<img width="626" alt="Captura de Pantalla 2022-05-06 a las 22 06 27" src="https://user-images.githubusercontent.com/91618773/167209652-9f5e505f-4036-4aff-874e-40ebc1d11e1b.png">
+
+<img width="340" alt="Captura de Pantalla 2022-05-06 a las 22 06 19" src="https://user-images.githubusercontent.com/91618773/167209675-fea49342-62d3-470a-b69a-a180fd0dbe77.png">
