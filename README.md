@@ -59,3 +59,9 @@ A continuación vamos a explicar por encima como se realiza la instalación de N
 <img width="626" alt="Captura de Pantalla 2022-05-06 a las 22 06 27" src="https://user-images.githubusercontent.com/91618773/167209652-9f5e505f-4036-4aff-874e-40ebc1d11e1b.png">
 
 <img width="340" alt="Captura de Pantalla 2022-05-06 a las 22 06 19" src="https://user-images.githubusercontent.com/91618773/167209675-fea49342-62d3-470a-b69a-a180fd0dbe77.png">
+
+* Página reloj
+<img width="1367" alt="Captura de Pantalla 2022-05-06 a las 22 17 23" src="https://user-images.githubusercontent.com/91618773/167210848-fabbf1f3-c262-4344-a8d0-c77d3c22e0e9.png">
+
+* Página camara
+<img width="1371" alt="Captura de Pantalla 2022-05-06 a las 22 17 44" src="https://user-images.githubusercontent.com/91618773/167210881-270e0d4c-6ee2-4c6d-a82f-b1d969ad78e2.png">
