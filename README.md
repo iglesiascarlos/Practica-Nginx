@@ -35,4 +35,6 @@ A continuación vamos a explicar por encima como se realiza la instalación de N
  > sudo nano clock.minimalist.com
  > sudo nano asci.camera.com
 ```
+<img width="486" alt="Captura de Pantalla 2022-05-06 a las 21 45 14" src="https://user-images.githubusercontent.com/91618773/167207130-d3cb846c-c771-4213-940d-6f12be6f2a4e.png">
+<img width="515" alt="Captura de Pantalla 2022-05-06 a las 21 46 20" src="https://user-images.githubusercontent.com/91618773/167207174-faed43a7-20eb-48da-9878-840a3915ca4e.png">
 
