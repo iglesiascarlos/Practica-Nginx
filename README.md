@@ -38,3 +38,18 @@ A continuación vamos a explicar por encima como se realiza la instalación de N
 <img width="486" alt="Captura de Pantalla 2022-05-06 a las 21 45 14" src="https://user-images.githubusercontent.com/91618773/167207130-d3cb846c-c771-4213-940d-6f12be6f2a4e.png">
 <img width="515" alt="Captura de Pantalla 2022-05-06 a las 21 46 20" src="https://user-images.githubusercontent.com/91618773/167207174-faed43a7-20eb-48da-9878-840a3915ca4e.png">
 
+4. Una vez tenemos estos cambios, usaremos los siguientes comandos para crear un link simbólico que apunte a los archivos creados y modificados de nuestras dos webs.
+
+<img width="1161" alt="Captura de Pantalla 2022-05-06 a las 21 49 52" src="https://user-images.githubusercontent.com/91618773/167207476-f86d8e8e-3bf9-45d9-bae8-52f3569269c6.png">
+
+5. Despues de haber creado estos links simbólicos iremos a /var/www/ y ahí crearemos las dos carpetas necesarias: carlos y carlos2, cada una para su respectiva web. Una vez creadas las carpetas entramos en cada una de ellas, creamos el archivo index.html y pegamos el código de cada web respectivamente.
+```BASH
+ > cd var/www
+ > mkdir carlos
+ > mkdir carlos2
+ > cd carlos
+ > sudo nano index.html
+ > cd ../carlos2
+ > sudo nano index.html
+```
+<img width="781" alt="Captura de Pantalla 2022-05-06 a las 22 02 56" src="https://user-images.githubusercontent.com/91618773/167209078-ec0ae275-e75b-41bf-829f-68e6ab03afa4.png">
