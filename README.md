@@ -30,4 +30,9 @@ A continuación vamos a explicar por encima como se realiza la instalación de N
 2. una vez creado las carpetas para dichas páginas veremos que la carpeta nos queda algo así:
  <img width="838" alt="Captura de Pantalla 2022-05-04 a las 17 19 55" src="https://user-images.githubusercontent.com/91618773/166714368-bad1ca36-6b9f-45ba-a209-9077b4a8bd05.png">
  
-3. A continuación 
+3. A continuación entraremos al archivo clock.minimalist.com y asci.camera.com y cambiaremos los siguientes parámetros:
+```BASH
+ > sudo nano clock.minimalist.com
+ > sudo nano asci.camera.com
+```
+
